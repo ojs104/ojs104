@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?text=Websloper!)
-![header](https://capsule-render.vercel.app/api?type=egg/text=Websloper!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=egg&text=Websloper!&animation=fadeIn)
 
 
 ### 🔭 포트폴리오 사이트 만들기 : NEXT.JS
