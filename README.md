@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![header](https://capsule-render.vercel.app/api?type=egg&text=Websloper!&animation=fadeIn&color=FFA500)
+[![header](https://capsule-render.vercel.app/api?type=egg&text=Websloper!&animation=fadeIn&color=87CEEB)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌱🌼🌷🌹&fontAlign=70)
 
 
