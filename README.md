@@ -2,7 +2,7 @@
 
 
 [![header](https://capsule-render.vercel.app/api?type=egg&text=Websloper!&animation=fadeIn&color=87CEEB)
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌱🌼🌷🌹&fontAlign=70)
+[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌱🌼🌷🌹&fontAlign=70)
 
 
 ### 🔭 포트폴리오 사이트 만들기 : NEXT.JS
@@ -19,6 +19,12 @@
 ### 📫 나만의 유튜브 만들기 : REACT.JS
 
 ### 😄 Pronouns: ...
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 ### ⚡ Fun fact: ...
 
 <div>
