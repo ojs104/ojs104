@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?text=Websloper!)
+
 ![header](https://capsule-render.vercel.app/api?type=egg&text=Websloper!&animation=fadeIn)
 
 
