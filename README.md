@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Webs%20loper&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Webs%20loper&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?text=Websloper!)
 
 ### 🔭 포트폴리오 사이트 만들기 : NEXT.JS
 <h2
