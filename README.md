@@ -2,6 +2,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=egg&text=Websloper!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌱🌼🌷🌹&fontAlign=70)
 
 
 ### 🔭 포트폴리오 사이트 만들기 : NEXT.JS
