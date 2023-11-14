@@ -19,12 +19,22 @@
 ### 📫 나만의 유튜브 만들기 : REACT.JS
 
 ### 😄 Pronouns: ...
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojs104&label=Profile%20views&color=0e75b6&style=flat" alt="ojs104" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojs104" alt="ojs104" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojs104&show_icons=true&locale=en&layout=compact" alt="ojs104" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojs104&show_icons=true&locale=en" alt="ojs104" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojs104&" alt="ojs104" /></p>
+
 ### ⚡ Fun fact: ...
 
 <div>
